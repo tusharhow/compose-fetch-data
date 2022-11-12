@@ -1,0 +1,1 @@
+class ApiData : ArrayList<ApiDataItem>()
